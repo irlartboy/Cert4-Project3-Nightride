@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 269e6960b0aa49e4fbb961725cd7fd76
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Mesh10
+    100002: Mesh10 1
+    100004: Mesh10 10
+    100006: Mesh10 11
+    100008: Mesh10 12
+    100010: Mesh10 13
+    100012: Mesh10 14
+    100014: Mesh10 15
+    100016: Mesh10 16
+    100018: Mesh10 17
+    100020: Mesh10 18
+    100022: Mesh10 19
+    100024: Mesh10 2
+    100026: Mesh10 20
+    100028: Mesh10 21
+    100030: Mesh10 22
+    100032: Mesh10 23
+    100034: Mesh10 24
+    100036: Mesh10 25
+    100038: Mesh10 26
+    100040: Mesh10 3
+    100042: Mesh10 4
+    100044: Mesh10 5
+    100046: Mesh10 6
+    100048: Mesh10 7
+    100050: Mesh10 8
+    100052: Mesh10 9
+    100054: Mesh21
+    100056: Mesh21 1
+    100058: Mesh21 10
+    100060: Mesh21 11
+    100062: Mesh21 12
+    100064: Mesh21 13
+    100066: Mesh21 14
+    100068: Mesh21 15
+    100070: Mesh21 16
+    100072: Mesh21 17
+    100074: Mesh21 18
+    100076: Mesh21 19
+    100078: Mesh21 2
+    100080: Mesh21 20
+    100082: Mesh21 21
+    100084: Mesh21 22
+    100086: Mesh21 23
+    100088: Mesh21 24
+    100090: Mesh21 25
+    100092: Mesh21 26
+    100094: Mesh21 3
+    100096: Mesh21 4
+    100098: Mesh21 5
+    100100: Mesh21 6
+    100102: Mesh21 7
+    100104: Mesh21 8
+    100106: Mesh21 9
+    100108: Mesh22
+    100110: Mesh22 1
+    100112: Mesh22 10
+    100114: Mesh22 11
+    100116: Mesh22 12
+    100118: Mesh22 13
+    100120: Mesh22 14
+    100122: Mesh22 15
+    100124: Mesh22 16
+    100126: Mesh22 17
+    100128: Mesh22 18
+    100130: Mesh22 19
+    100132: Mesh22 2
+    100134: Mesh22 20
+    100136: Mesh22 21
+    100138: Mesh22 22
+    100140: Mesh22 23
+    100142: Mesh22 24
+    100144: Mesh22 25
+    100146: Mesh22 26
+    100148: Mesh22 3
+    100150: Mesh22 4
+    100152: Mesh22 5
+    100154: Mesh22 6
+    100156: Mesh22 7
+    100158: Mesh22 8
+    100160: Mesh22 9
+    100162: Mesh26
+    100164: Mesh26 1
+    100166: Mesh26 10
+    100168: Mesh26 11
+    100170: Mesh26 12
+    100172: Mesh26 13
+    100174: Mesh26 14
+    100176: Mesh26 15
+    100178: Mesh26 16
+    100180: Mesh26 17
+    100182: Mesh26 18
+    100184: Mesh26 19
+    100186: Mesh26 2
+    100188: Mesh26 20
+    100190: Mesh26 21
+    100192: Mesh26 22
+    100194: Mesh26 23
+    100196: Mesh26 24
+    100198: Mesh26 25
+    100200: Mesh26 26
+    100202: Mesh26 3
+    100204: Mesh26 4
+    100206: Mesh26 5
+    100208: Mesh26 6
+    100210: Mesh26 7
+    100212: Mesh26 8
+    100214: Mesh26 9
+    100216: Mesh28
+    100218: Mesh28 1
+    100220: Mesh28 10
+    100222: Mesh28 11
+    100224: Mesh28 12
+    100226: Mesh28 13
+    100228: Mesh28 14
+    100230: Mesh28 15
+    100232: Mesh28 16
+    100234: Mesh28 17
+    100236: Mesh28 18
+    100238: Mesh28 19
+    100240: Mesh28 2
+    100242: Mesh28 20
+    100244: Mesh28 21
+    100246: Mesh28 22
+    100248: Mesh28 23
+    100250: Mesh28 24
+    100252: Mesh28 25
+    100254: Mesh28 26
+    100256: Mesh28 3
+    100258: Mesh28 4
+    100260: Mesh28 5
+    100262: Mesh28 6
+    100264: Mesh28 7
+    100266: Mesh28 8
+    100268: Mesh28 9
+    100270: rail1
+    100272: rail1 1
+    100274: rail1 10
+    100276: rail1 11
+    100278: rail1 12
+    100280: rail1 13
+    100282: rail1 14
+    100284: rail1 15
+    100286: rail1 16
+    100288: rail1 17
+    100290: rail1 18
+    100292: rail1 19
+    100294: rail1 2
+    100296: rail1 20
+    100298: rail1 21
+    100300: rail1 22
+    100302: rail1 23
+    100304: rail1 24
+    100306: rail1 25
+    100308: rail1 26
+    100310: rail1 3
+    100312: rail1 4
+    100314: rail1 5
+    100316: rail1 6
+    100318: rail1 7
+    100320: rail1 8
+    100322: rail1 9
+    100324: rail2
+    100326: rail2 1
+    100328: rail2 10
+    100330: rail2 11
+    100332: rail2 12
+    100334: rail2 13
+    100336: rail2 14
+    100338: rail2 15
+    100340: rail2 16
+    100342: rail2 17
+    100344: rail2 18
+    100346: rail2 19
+    100348: rail2 2
+    100350: rail2 20
+    100352: rail2 21
+    100354: rail2 22
+    100356: rail2 23
+    100358: rail2 24
+    100360: rail2 25
+    100362: rail2 26
+    100364: rail2 3
+    100366: rail2 4
+    100368: rail2 5
+    100370: rail2 6
+    100372: rail2 7
+    100374: rail2 8
+    100376: rail2 9
+    100378: //RootNode
+    100380: tracksection
+    100382: tracksection1
+    100384: tracksection10
+    100386: tracksection11
+    100388: tracksection12
+    100390: tracksection13
+    100392: tracksection14
+    100394: tracksection15
+    100396: tracksection16
+    100398: tracksection17
+    100400: tracksection18
+    100402: tracksection19
+    100404: tracksection2
+    100406: tracksection20
+    100408: tracksection21
+    100410: tracksection22
+    100412: tracksection23
+    100414: tracksection24
+    100416: tracksection25
+    100418: tracksection26
+    100420: tracksection3
+    100422: tracksection4
+    100424: tracksection5
+    100426: tracksection6
+    100428: tracksection7
+    100430: tracksection8
+    100432: tracksection9
+    400000: Mesh10
+    400002: Mesh10 1
+    400004: Mesh10 10
+    400006: Mesh10 11
+    400008: Mesh10 12
+    400010: Mesh10 13
+    400012: Mesh10 14
+    400014: Mesh10 15
+    400016: Mesh10 16
+    400018: Mesh10 17
+    400020: Mesh10 18
+    400022: Mesh10 19
+    400024: Mesh10 2
+    400026: Mesh10 20
+    400028: Mesh10 21
+    400030: Mesh10 22
+    400032: Mesh10 23
+    400034: Mesh10 24
+    400036: Mesh10 25
+    400038: Mesh10 26
+    400040: Mesh10 3
+    400042: Mesh10 4
+    400044: Mesh10 5
+    400046: Mesh10 6
+    400048: Mesh10 7
+    400050: Mesh10 8
+    400052: Mesh10 9
+    400054: Mesh21
+    400056: Mesh21 1
+    400058: Mesh21 10
+    400060: Mesh21 11
+    400062: Mesh21 12
+    400064: Mesh21 13
+    400066: Mesh21 14
+    400068: Mesh21 15
+    400070: Mesh21 16
+    400072: Mesh21 17
+    400074: Mesh21 18
+    400076: Mesh21 19
+    400078: Mesh21 2
+    400080: Mesh21 20
+    400082: Mesh21 21
+    400084: Mesh21 22
+    400086: Mesh21 23
+    400088: Mesh21 24
+    400090: Mesh21 25
+    400092: Mesh21 26
+    400094: Mesh21 3
+    400096: Mesh21 4
+    400098: Mesh21 5
+    400100: Mesh21 6
+    400102: Mesh21 7
+    400104: Mesh21 8
+    400106: Mesh21 9
+    400108: Mesh22
+    400110: Mesh22 1
+    400112: Mesh22 10
+    400114: Mesh22 11
+    400116: Mesh22 12
+    400118: Mesh22 13
+    400120: Mesh22 14
+    400122: Mesh22 15
+    400124: Mesh22 16
+    400126: Mesh22 17
+    400128: Mesh22 18
+    400130: Mesh22 19
+    400132: Mesh22 2
+    400134: Mesh22 20
+    400136: Mesh22 21
+    400138: Mesh22 22
+    400140: Mesh22 23
+    400142: Mesh22 24
+    400144: Mesh22 25
+    400146: Mesh22 26
+    400148: Mesh22 3
+    400150: Mesh22 4
+    400152: Mesh22 5
+    400154: Mesh22 6
+    400156: Mesh22 7
+    400158: Mesh22 8
+    400160: Mesh22 9
+    400162: Mesh26
+    400164: Mesh26 1
+    400166: Mesh26 10
+    400168: Mesh26 11
+    400170: Mesh26 12
+    400172: Mesh26 13
+    400174: Mesh26 14
+    400176: Mesh26 15
+    400178: Mesh26 16
+    400180: Mesh26 17
+    400182: Mesh26 18
+    400184: Mesh26 19
+    400186: Mesh26 2
+    400188: Mesh26 20
+    400190: Mesh26 21
+    400192: Mesh26 22
+    400194: Mesh26 23
+    400196: Mesh26 24
+    400198: Mesh26 25
+    400200: Mesh26 26
+    400202: Mesh26 3
+    400204: Mesh26 4
+    400206: Mesh26 5
+    400208: Mesh26 6
+    400210: Mesh26 7
+    400212: Mesh26 8
+    400214: Mesh26 9
+    400216: Mesh28
+    400218: Mesh28 1
+    400220: Mesh28 10
+    400222: Mesh28 11
+    400224: Mesh28 12
+    400226: Mesh28 13
+    400228: Mesh28 14
+    400230: Mesh28 15
+    400232: Mesh28 16
+    400234: Mesh28 17
+    400236: Mesh28 18
+    400238: Mesh28 19
+    400240: Mesh28 2
+    400242: Mesh28 20
+    400244: Mesh28 21
+    400246: Mesh28 22
+    400248: Mesh28 23
+    400250: Mesh28 24
+    400252: Mesh28 25
+    400254: Mesh28 26
+    400256: Mesh28 3
+    400258: Mesh28 4
+    400260: Mesh28 5
+    400262: Mesh28 6
+    400264: Mesh28 7
+    400266: Mesh28 8
+    400268: Mesh28 9
+    400270: rail1
+    400272: rail1 1
+    400274: rail1 10
+    400276: rail1 11
+    400278: rail1 12
+    400280: rail1 13
+    400282: rail1 14
+    400284: rail1 15
+    400286: rail1 16
+    400288: rail1 17
+    400290: rail1 18
+    400292: rail1 19
+    400294: rail1 2
+    400296: rail1 20
+    400298: rail1 21
+    400300: rail1 22
+    400302: rail1 23
+    400304: rail1 24
+    400306: rail1 25
+    400308: rail1 26
+    400310: rail1 3
+    400312: rail1 4
+    400314: rail1 5
+    400316: rail1 6
+    400318: rail1 7
+    400320: rail1 8
+    400322: rail1 9
+    400324: rail2
+    400326: rail2 1
+    400328: rail2 10
+    400330: rail2 11
+    400332: rail2 12
+    400334: rail2 13
+    400336: rail2 14
+    400338: rail2 15
+    400340: rail2 16
+    400342: rail2 17
+    400344: rail2 18
+    400346: rail2 19
+    400348: rail2 2
+    400350: rail2 20
+    400352: rail2 21
+    400354: rail2 22
+    400356: rail2 23
+    400358: rail2 24
+    400360: rail2 25
+    400362: rail2 26
+    400364: rail2 3
+    400366: rail2 4
+    400368: rail2 5
+    400370: rail2 6
+    400372: rail2 7
+    400374: rail2 8
+    400376: rail2 9
+    400378: tracksection
+    400380: //RootNode
+    400382: tracksection1
+    400384: tracksection10
+    400386: tracksection11
+    400388: tracksection12
+    400390: tracksection13
+    400392: tracksection14
+    400394: tracksection15
+    400396: tracksection16
+    400398: tracksection17
+    400400: tracksection18
+    400402: tracksection19
+    400404: tracksection2
+    400406: tracksection20
+    400408: tracksection21
+    400410: tracksection22
+    400412: tracksection23
+    400414: tracksection24
+    400416: tracksection25
+    400418: tracksection26
+    400420: tracksection3
+    400422: tracksection4
+    400424: tracksection5
+    400426: tracksection6
+    400428: tracksection7
+    400430: tracksection8
+    400432: tracksection9
+    2100000: track5
+    2300000: Mesh10
+    2300002: Mesh10 1
+    2300004: Mesh10 10
+    2300006: Mesh10 11
+    2300008: Mesh10 12
+    2300010: Mesh10 13
+    2300012: Mesh10 14
+    2300014: Mesh10 15
+    2300016: Mesh10 16
+    2300018: Mesh10 17
+    2300020: Mesh10 18
+    2300022: Mesh10 19
+    2300024: Mesh10 2
+    2300026: Mesh10 20
+    2300028: Mesh10 21
+    2300030: Mesh10 22
+    2300032: Mesh10 23
+    2300034: Mesh10 24
+    2300036: Mesh10 25
+    2300038: Mesh10 26
+    2300040: Mesh10 3
+    2300042: Mesh10 4
+    2300044: Mesh10 5
+    2300046: Mesh10 6
+    2300048: Mesh10 7
+    2300050: Mesh10 8
+    2300052: Mesh10 9
+    2300054: Mesh21
+    2300056: Mesh21 1
+    2300058: Mesh21 10
+    2300060: Mesh21 11
+    2300062: Mesh21 12
+    2300064: Mesh21 13
+    2300066: Mesh21 14
+    2300068: Mesh21 15
+    2300070: Mesh21 16
+    2300072: Mesh21 17
+    2300074: Mesh21 18
+    2300076: Mesh21 19
+    2300078: Mesh21 2
+    2300080: Mesh21 20
+    2300082: Mesh21 21
+    2300084: Mesh21 22
+    2300086: Mesh21 23
+    2300088: Mesh21 24
+    2300090: Mesh21 25
+    2300092: Mesh21 26
+    2300094: Mesh21 3
+    2300096: Mesh21 4
+    2300098: Mesh21 5
+    2300100: Mesh21 6
+    2300102: Mesh21 7
+    2300104: Mesh21 8
+    2300106: Mesh21 9
+    2300108: Mesh22
+    2300110: Mesh22 1
+    2300112: Mesh22 10
+    2300114: Mesh22 11
+    2300116: Mesh22 12
+    2300118: Mesh22 13
+    2300120: Mesh22 14
+    2300122: Mesh22 15
+    2300124: Mesh22 16
+    2300126: Mesh22 17
+    2300128: Mesh22 18
+    2300130: Mesh22 19
+    2300132: Mesh22 2
+    2300134: Mesh22 20
+    2300136: Mesh22 21
+    2300138: Mesh22 22
+    2300140: Mesh22 23
+    2300142: Mesh22 24
+    2300144: Mesh22 25
+    2300146: Mesh22 26
+    2300148: Mesh22 3
+    2300150: Mesh22 4
+    2300152: Mesh22 5
+    2300154: Mesh22 6
+    2300156: Mesh22 7
+    2300158: Mesh22 8
+    2300160: Mesh22 9
+    2300162: Mesh26
+    2300164: Mesh26 1
+    2300166: Mesh26 10
+    2300168: Mesh26 11
+    2300170: Mesh26 12
+    2300172: Mesh26 13
+    2300174: Mesh26 14
+    2300176: Mesh26 15
+    2300178: Mesh26 16
+    2300180: Mesh26 17
+    2300182: Mesh26 18
+    2300184: Mesh26 19
+    2300186: Mesh26 2
+    2300188: Mesh26 20
+    2300190: Mesh26 21
+    2300192: Mesh26 22
+    2300194: Mesh26 23
+    2300196: Mesh26 24
+    2300198: Mesh26 25
+    2300200: Mesh26 26
+    2300202: Mesh26 3
+    2300204: Mesh26 4
+    2300206: Mesh26 5
+    2300208: Mesh26 6
+    2300210: Mesh26 7
+    2300212: Mesh26 8
+    2300214: Mesh26 9
+    2300216: Mesh28
+    2300218: Mesh28 1
+    2300220: Mesh28 10
+    2300222: Mesh28 11
+    2300224: Mesh28 12
+    2300226: Mesh28 13
+    2300228: Mesh28 14
+    2300230: Mesh28 15
+    2300232: Mesh28 16
+    2300234: Mesh28 17
+    2300236: Mesh28 18
+    2300238: Mesh28 19
+    2300240: Mesh28 2
+    2300242: Mesh28 20
+    2300244: Mesh28 21
+    2300246: Mesh28 22
+    2300248: Mesh28 23
+    2300250: Mesh28 24
+    2300252: Mesh28 25
+    2300254: Mesh28 26
+    2300256: Mesh28 3
+    2300258: Mesh28 4
+    2300260: Mesh28 5
+    2300262: Mesh28 6
+    2300264: Mesh28 7
+    2300266: Mesh28 8
+    2300268: Mesh28 9
+    3300000: Mesh10
+    3300002: Mesh10 1
+    3300004: Mesh10 10
+    3300006: Mesh10 11
+    3300008: Mesh10 12
+    3300010: Mesh10 13
+    3300012: Mesh10 14
+    3300014: Mesh10 15
+    3300016: Mesh10 16
+    3300018: Mesh10 17
+    3300020: Mesh10 18
+    3300022: Mesh10 19
+    3300024: Mesh10 2
+    3300026: Mesh10 20
+    3300028: Mesh10 21
+    3300030: Mesh10 22
+    3300032: Mesh10 23
+    3300034: Mesh10 24
+    3300036: Mesh10 25
+    3300038: Mesh10 26
+    3300040: Mesh10 3
+    3300042: Mesh10 4
+    3300044: Mesh10 5
+    3300046: Mesh10 6
+    3300048: Mesh10 7
+    3300050: Mesh10 8
+    3300052: Mesh10 9
+    3300054: Mesh21
+    3300056: Mesh21 1
+    3300058: Mesh21 10
+    3300060: Mesh21 11
+    3300062: Mesh21 12
+    3300064: Mesh21 13
+    3300066: Mesh21 14
+    3300068: Mesh21 15
+    3300070: Mesh21 16
+    3300072: Mesh21 17
+    3300074: Mesh21 18
+    3300076: Mesh21 19
+    3300078: Mesh21 2
+    3300080: Mesh21 20
+    3300082: Mesh21 21
+    3300084: Mesh21 22
+    3300086: Mesh21 23
+    3300088: Mesh21 24
+    3300090: Mesh21 25
+    3300092: Mesh21 26
+    3300094: Mesh21 3
+    3300096: Mesh21 4
+    3300098: Mesh21 5
+    3300100: Mesh21 6
+    3300102: Mesh21 7
+    3300104: Mesh21 8
+    3300106: Mesh21 9
+    3300108: Mesh22
+    3300110: Mesh22 1
+    3300112: Mesh22 10
+    3300114: Mesh22 11
+    3300116: Mesh22 12
+    3300118: Mesh22 13
+    3300120: Mesh22 14
+    3300122: Mesh22 15
+    3300124: Mesh22 16
+    3300126: Mesh22 17
+    3300128: Mesh22 18
+    3300130: Mesh22 19
+    3300132: Mesh22 2
+    3300134: Mesh22 20
+    3300136: Mesh22 21
+    3300138: Mesh22 22
+    3300140: Mesh22 23
+    3300142: Mesh22 24
+    3300144: Mesh22 25
+    3300146: Mesh22 26
+    3300148: Mesh22 3
+    3300150: Mesh22 4
+    3300152: Mesh22 5
+    3300154: Mesh22 6
+    3300156: Mesh22 7
+    3300158: Mesh22 8
+    3300160: Mesh22 9
+    3300162: Mesh26
+    3300164: Mesh26 1
+    3300166: Mesh26 10
+    3300168: Mesh26 11
+    3300170: Mesh26 12
+    3300172: Mesh26 13
+    3300174: Mesh26 14
+    3300176: Mesh26 15
+    3300178: Mesh26 16
+    3300180: Mesh26 17
+    3300182: Mesh26 18
+    3300184: Mesh26 19
+    3300186: Mesh26 2
+    3300188: Mesh26 20
+    3300190: Mesh26 21
+    3300192: Mesh26 22
+    3300194: Mesh26 23
+    3300196: Mesh26 24
+    3300198: Mesh26 25
+    3300200: Mesh26 26
+    3300202: Mesh26 3
+    3300204: Mesh26 4
+    3300206: Mesh26 5
+    3300208: Mesh26 6
+    3300210: Mesh26 7
+    3300212: Mesh26 8
+    3300214: Mesh26 9
+    3300216: Mesh28
+    3300218: Mesh28 1
+    3300220: Mesh28 10
+    3300222: Mesh28 11
+    3300224: Mesh28 12
+    3300226: Mesh28 13
+    3300228: Mesh28 14
+    3300230: Mesh28 15
+    3300232: Mesh28 16
+    3300234: Mesh28 17
+    3300236: Mesh28 18
+    3300238: Mesh28 19
+    3300240: Mesh28 2
+    3300242: Mesh28 20
+    3300244: Mesh28 21
+    3300246: Mesh28 22
+    3300248: Mesh28 23
+    3300250: Mesh28 24
+    3300252: Mesh28 25
+    3300254: Mesh28 26
+    3300256: Mesh28 3
+    3300258: Mesh28 4
+    3300260: Mesh28 5
+    3300262: Mesh28 6
+    3300264: Mesh28 7
+    3300266: Mesh28 8
+    3300268: Mesh28 9
+    4300000: Mesh21
+    4300002: Mesh22
+    4300004: Mesh28
+    4300006: Mesh26
+    4300008: Mesh10
+    4300010: Mesh21
+    4300012: Mesh22
+    4300014: Mesh28
+    4300016: Mesh26
+    4300018: Mesh10
+    4300020: Mesh21
+    4300022: Mesh22
+    4300024: Mesh28
+    4300026: Mesh26
+    4300028: Mesh10
+    4300030: Mesh21
+    4300032: Mesh22
+    4300034: Mesh28
+    4300036: Mesh26
+    4300038: Mesh10
+    4300040: Mesh21
+    4300042: Mesh22
+    4300044: Mesh28
+    4300046: Mesh26
+    4300048: Mesh10
+    4300050: Mesh21
+    4300052: Mesh22
+    4300054: Mesh28
+    4300056: Mesh26
+    4300058: Mesh10
+    4300060: Mesh21
+    4300062: Mesh22
+    4300064: Mesh28
+    4300066: Mesh26
+    4300068: Mesh10
+    4300070: Mesh21
+    4300072: Mesh22
+    4300074: Mesh28
+    4300076: Mesh26
+    4300078: Mesh10
+    4300080: Mesh21
+    4300082: Mesh22
+    4300084: Mesh28
+    4300086: Mesh26
+    4300088: Mesh10
+    4300090: Mesh21
+    4300092: Mesh22
+    4300094: Mesh28
+    4300096: Mesh26
+    4300098: Mesh10
+    4300100: Mesh21
+    4300102: Mesh22
+    4300104: Mesh28
+    4300106: Mesh26
+    4300108: Mesh10
+    4300110: Mesh21
+    4300112: Mesh22
+    4300114: Mesh28
+    4300116: Mesh26
+    4300118: Mesh10
+    4300120: Mesh21
+    4300122: Mesh22
+    4300124: Mesh28
+    4300126: Mesh26
+    4300128: Mesh10
+    4300130: Mesh21
+    4300132: Mesh22
+    4300134: Mesh28
+    4300136: Mesh26
+    4300138: Mesh10
+    4300140: Mesh21
+    4300142: Mesh22
+    4300144: Mesh28
+    4300146: Mesh26
+    4300148: Mesh10
+    4300150: Mesh21
+    4300152: Mesh22
+    4300154: Mesh28
+    4300156: Mesh26
+    4300158: Mesh10
+    4300160: Mesh21
+    4300162: Mesh22
+    4300164: Mesh28
+    4300166: Mesh26
+    4300168: Mesh10
+    4300170: Mesh21
+    4300172: Mesh22
+    4300174: Mesh28
+    4300176: Mesh26
+    4300178: Mesh10
+    4300180: Mesh21
+    4300182: Mesh22
+    4300184: Mesh28
+    4300186: Mesh26
+    4300188: Mesh10
+    4300190: Mesh21
+    4300192: Mesh22
+    4300194: Mesh28
+    4300196: Mesh26
+    4300198: Mesh10
+    4300200: Mesh21
+    4300202: Mesh22
+    4300204: Mesh28
+    4300206: Mesh26
+    4300208: Mesh10
+    4300210: Mesh21
+    4300212: Mesh22
+    4300214: Mesh28
+    4300216: Mesh26
+    4300218: Mesh10
+    4300220: Mesh21
+    4300222: Mesh22
+    4300224: Mesh28
+    4300226: Mesh26
+    4300228: Mesh10
+    4300230: Mesh21
+    4300232: Mesh22
+    4300234: Mesh28
+    4300236: Mesh26
+    4300238: Mesh10
+    4300240: Mesh21
+    4300242: Mesh22
+    4300244: Mesh28
+    4300246: Mesh26
+    4300248: Mesh10
+    4300250: Mesh21
+    4300252: Mesh22
+    4300254: Mesh28
+    4300256: Mesh26
+    4300258: Mesh10
+    4300260: Mesh21
+    4300262: Mesh22
+    4300264: Mesh28
+    4300266: Mesh26
+    4300268: Mesh10
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: track5
+    second: {fileID: 2100000, guid: cd55cce2899b5f94c9297a832f6dc403, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

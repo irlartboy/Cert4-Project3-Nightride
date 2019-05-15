@@ -1,0 +1,1338 @@
+fileFormatVersion: 2
+guid: 959f12173ff1b3f4ab7a2528da147844
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: airconandcables
+    100002: airconandcables 1
+    100004: auxconverter
+    100006: axle1
+    100008: axle1 1
+    100010: axle1 2
+    100012: axle2
+    100014: axle2 1
+    100016: axle2 2
+    100018: bellows
+    100020: bellows 1
+    100022: bellows1
+    100024: bellows1 1
+    100026: bellows1 2
+    100028: bellows2
+    100030: bellows2 1
+    100032: bellows2 2
+    100034: bogies
+    100036: cab1
+    100038: cab1 1
+    100040: cables1
+    100042: cables2
+    100044: cables4
+    100046: cables4 1
+    100048: cablesmodule15
+    100050: cablesmodule15 1
+    100052: ceiling15andmotor
+    100054: ceiling15andmotor1
+    100056: curtain
+    100058: curtain 1
+    100060: dampenerx
+    100062: dampenerx 1
+    100064: dampenerx1
+    100066: dampenerx2
+    100068: doordetails
+    100070: doordetails 1
+    100072: doordetails1
+    100074: doordetails1 1
+    100076: doordetails2
+    100078: doordetails2 1
+    100080: doorhinge2
+    100082: doorhinge2 1
+    100084: doorhinge3
+    100086: doorhinge3 1
+    100088: doorhinge4
+    100090: doorhinge5
+    100092: doormotorcovers
+    100094: doormotorcovers 1
+    100096: doors
+    100098: doors 1
+    100100: doorsmodule15
+    100102: doorsmodule15 1
+    100104: emergencyintercom
+    100106: emergencyintercom 1
+    100108: ends
+    100110: ends 1
+    100112: ends1
+    100114: ends1 1
+    100116: ends1 2
+    100118: ends2
+    100120: ends2 1
+    100122: ends2 2
+    100124: footwellboxes
+    100126: footwellcovers
+    100128: footwellcovers 1
+    100130: interiordetails
+    100132: interiordetails1
+    100134: interiordetails1 1
+    100136: joint1
+    100138: joint10
+    100140: joint11
+    100142: joint12
+    100144: joint14
+    100146: joint15
+    100148: joint16
+    100150: joint2
+    100152: joint3
+    100154: joint4
+    100156: joint5
+    100158: joint6
+    100160: joint7
+    100162: joint8
+    100164: joint9
+    100166: markers
+    100168: markers 1
+    100170: markers 2
+    100172: Mesh104
+    100174: Mesh104 1
+    100176: Mesh209
+    100178: Mesh209 1
+    100180: Mesh249
+    100182: Mesh249 1
+    100184: Mesh355
+    100186: Mesh355 1
+    100188: Mesh366
+    100190: Mesh366 1
+    100192: Mesh94
+    100194: Mesh94 1
+    100196: Mesh97
+    100198: Mesh97 1
+    100200: Mesh99
+    100202: Mesh99 1
+    100204: midpole1
+    100206: midpole2
+    100208: mirror1
+    100210: mirror1 1
+    100212: module1
+    100214: module2
+    100216: module24shell
+    100218: module24shell 1
+    100220: module3
+    100222: module3shell
+    100224: module4
+    100226: module5
+    100228: pantograph1
+    100230: pantographcontact
+    100232: pantographframe
+    100234: pantographjoints
+    100236: pantographlowerarm
+    100238: pantographupperarm
+    100240: pantosupport
+    100242: pCube1
+    100244: pCube10
+    100246: pCube11
+    100248: pCube12
+    100250: pCube2
+    100252: pCube3
+    100254: pCube4
+    100256: pCube5
+    100258: pCube6
+    100260: pCube7
+    100262: pCube8
+    100264: pCube9
+    100266: poles15
+    100268: poles15 1
+    100270: polesceiling
+    100272: polesceiling 1
+    100274: polesdoor
+    100276: polesdoor 1
+    100278: polesdoordivider
+    100280: polesdoordivider 1
+    100282: polesdoors1
+    100284: polesdoors1 1
+    100286: polesdoorwholder
+    100288: polesdoorwholder 1
+    100290: polesdoorwholder1
+    100292: polesdoorwholder1 1
+    100294: polesend1
+    100296: polesend1 1
+    100298: polesends2
+    100300: polesends2 1
+    100302: polySurface1
+    100304: polySurface2
+    100306: polySurface3
+    100308: polySurface4
+    100310: polySurface5
+    100312: polySurface6
+    100314: polySurface7
+    100316: seatpair
+    100318: seatpair 1
+    100320: seatpair1
+    100322: seatpair1 1
+    100324: seatpair2
+    100326: seatpair2 1
+    100328: seatpair3
+    100330: seatpair3 1
+    100332: seatpair4
+    100334: seatpair4 1
+    100336: seatpair5
+    100338: seatpair5 1
+    100340: seatsfolable3
+    100342: seatsfolable3 1
+    100344: seatwheelboxpair
+    100346: seatwheelboxpair 1
+    100348: shell1
+    100350: shell1 1
+    100352: transformer
+    100354: //RootNode
+    100356: wheelbox
+    100358: wheelbox 1
+    100360: wheelbox 2
+    100362: wheelbox1
+    100364: wheelbox2
+    100366: wheelbox3
+    100368: wheelbox5
+    100370: wheelbox5 1
+    100372: wheelbox6
+    100374: wheelbox6 1
+    100376: wiperbladelarge
+    100378: wiperbladelarge 1
+    100380: wiperlargearm1
+    100382: wiperlargearm1 1
+    100384: wiperlargearm2
+    100386: wiperlargearm2 1
+    100388: wipers
+    100390: wipers 1
+    100392: wipersmall
+    100394: wipersmall 1
+    100396: yawdampener1
+    100398: yawdampener1 1
+    100400: yawdampener2
+    100402: yawdampener2 1
+    100404: yawdampeners
+    100406: yawdampeners 1
+    100408: yawdampeners 2
+    100410: yawdampeners1
+    100412: yawdampeners1 1
+    400000: airconandcables
+    400002: airconandcables 1
+    400004: auxconverter
+    400006: axle1
+    400008: axle1 1
+    400010: axle1 2
+    400012: axle2
+    400014: axle2 1
+    400016: axle2 2
+    400018: bellows
+    400020: bellows 1
+    400022: bellows1
+    400024: bellows1 1
+    400026: bellows1 2
+    400028: bellows2
+    400030: bellows2 1
+    400032: bellows2 2
+    400034: bogies
+    400036: cab1
+    400038: cab1 1
+    400040: cables1
+    400042: cables2
+    400044: cables4
+    400046: cables4 1
+    400048: cablesmodule15
+    400050: cablesmodule15 1
+    400052: ceiling15andmotor
+    400054: ceiling15andmotor1
+    400056: curtain
+    400058: curtain 1
+    400060: dampenerx
+    400062: dampenerx 1
+    400064: dampenerx1
+    400066: dampenerx2
+    400068: doordetails
+    400070: doordetails 1
+    400072: doordetails1
+    400074: doordetails1 1
+    400076: doordetails2
+    400078: doordetails2 1
+    400080: doorhinge2
+    400082: doorhinge2 1
+    400084: doorhinge3
+    400086: doorhinge3 1
+    400088: doorhinge4
+    400090: doorhinge5
+    400092: doormotorcovers
+    400094: doormotorcovers 1
+    400096: doors
+    400098: doors 1
+    400100: doorsmodule15
+    400102: doorsmodule15 1
+    400104: emergencyintercom
+    400106: emergencyintercom 1
+    400108: ends
+    400110: ends 1
+    400112: ends1
+    400114: ends1 1
+    400116: ends1 2
+    400118: ends2
+    400120: ends2 1
+    400122: ends2 2
+    400124: footwellboxes
+    400126: footwellcovers
+    400128: footwellcovers 1
+    400130: interiordetails
+    400132: interiordetails1
+    400134: interiordetails1 1
+    400136: joint1
+    400138: joint10
+    400140: joint11
+    400142: joint12
+    400144: joint14
+    400146: joint15
+    400148: joint16
+    400150: joint2
+    400152: joint3
+    400154: joint4
+    400156: joint5
+    400158: joint6
+    400160: joint7
+    400162: joint8
+    400164: joint9
+    400166: markers
+    400168: markers 1
+    400170: markers 2
+    400172: Mesh104
+    400174: Mesh104 1
+    400176: Mesh209
+    400178: Mesh209 1
+    400180: Mesh249
+    400182: Mesh249 1
+    400184: Mesh355
+    400186: Mesh355 1
+    400188: Mesh366
+    400190: Mesh366 1
+    400192: Mesh94
+    400194: Mesh94 1
+    400196: Mesh97
+    400198: Mesh97 1
+    400200: Mesh99
+    400202: Mesh99 1
+    400204: midpole1
+    400206: midpole2
+    400208: mirror1
+    400210: mirror1 1
+    400212: module1
+    400214: module2
+    400216: module24shell
+    400218: module24shell 1
+    400220: module3
+    400222: module3shell
+    400224: module4
+    400226: module5
+    400228: pantograph1
+    400230: pantographcontact
+    400232: pantographframe
+    400234: pantographjoints
+    400236: pantographlowerarm
+    400238: pantographupperarm
+    400240: pantosupport
+    400242: pCube1
+    400244: pCube10
+    400246: pCube11
+    400248: pCube12
+    400250: pCube2
+    400252: pCube3
+    400254: pCube4
+    400256: pCube5
+    400258: pCube6
+    400260: pCube7
+    400262: pCube8
+    400264: pCube9
+    400266: poles15
+    400268: poles15 1
+    400270: polesceiling
+    400272: polesceiling 1
+    400274: polesdoor
+    400276: polesdoor 1
+    400278: polesdoordivider
+    400280: polesdoordivider 1
+    400282: polesdoors1
+    400284: polesdoors1 1
+    400286: polesdoorwholder
+    400288: polesdoorwholder 1
+    400290: polesdoorwholder1
+    400292: polesdoorwholder1 1
+    400294: polesend1
+    400296: polesend1 1
+    400298: polesends2
+    400300: polesends2 1
+    400302: polySurface1
+    400304: polySurface2
+    400306: polySurface3
+    400308: polySurface4
+    400310: polySurface5
+    400312: polySurface6
+    400314: polySurface7
+    400316: seatpair
+    400318: seatpair 1
+    400320: seatpair1
+    400322: seatpair1 1
+    400324: seatpair2
+    400326: seatpair2 1
+    400328: seatpair3
+    400330: seatpair3 1
+    400332: seatpair4
+    400334: seatpair4 1
+    400336: seatpair5
+    400338: seatpair5 1
+    400340: seatsfolable3
+    400342: seatsfolable3 1
+    400344: seatwheelboxpair
+    400346: seatwheelboxpair 1
+    400348: shell1
+    400350: shell1 1
+    400352: transformer
+    400354: //RootNode
+    400356: wheelbox
+    400358: wheelbox 1
+    400360: wheelbox 2
+    400362: wheelbox1
+    400364: wheelbox2
+    400366: wheelbox3
+    400368: wheelbox5
+    400370: wheelbox5 1
+    400372: wheelbox6
+    400374: wheelbox6 1
+    400376: wiperbladelarge
+    400378: wiperbladelarge 1
+    400380: wiperlargearm1
+    400382: wiperlargearm1 1
+    400384: wiperlargearm2
+    400386: wiperlargearm2 1
+    400388: wipers
+    400390: wipers 1
+    400392: wipersmall
+    400394: wipersmall 1
+    400396: yawdampener1
+    400398: yawdampener1 1
+    400400: yawdampener2
+    400402: yawdampener2 1
+    400404: yawdampeners
+    400406: yawdampeners 1
+    400408: yawdampeners 2
+    400410: yawdampeners1
+    400412: yawdampeners1 1
+    2100000: cab
+    2100002: roofandcab15
+    2100004: FrontColor
+    2100006: MAIN
+    2100008: blackop
+    2100010: floor
+    2100012: wheelz
+    2100014: module15
+    2100016: walls_1
+    2100018: cabendposter
+    2100020: black
+    2100022: excess
+    2100024: module15windows
+    2100026: front3
+    2100028: dest_sign
+    2100030: lambert1
+    2100032: roofends
+    2100034: lightsinterioremissive
+    2100036: sidemarkers
+    2100038: wall_24
+    2100040: roof24
+    2100042: module24
+    2100044: module24windows
+    2100046: rooft1_5
+    2100048: module3tex
+    2100050: module3windows
+    2100052: walls3
+    2100054: rooftthree
+    2100056: roof3
+    2100058: pantograph
+    2100060: taillight
+    2300000: airconandcables
+    2300002: airconandcables 1
+    2300004: auxconverter
+    2300006: axle1
+    2300008: axle1 1
+    2300010: axle1 2
+    2300012: axle2
+    2300014: axle2 1
+    2300016: axle2 2
+    2300018: bellows
+    2300020: bellows 1
+    2300022: bellows1
+    2300024: bellows1 1
+    2300026: bellows1 2
+    2300028: bellows2
+    2300030: bellows2 1
+    2300032: bellows2 2
+    2300034: bogies
+    2300036: cab1
+    2300038: cab1 1
+    2300040: cables1
+    2300042: cables2
+    2300044: cables4
+    2300046: cables4 1
+    2300048: cablesmodule15
+    2300050: cablesmodule15 1
+    2300052: ceiling15andmotor
+    2300054: ceiling15andmotor1
+    2300056: curtain
+    2300058: curtain 1
+    2300060: dampenerx
+    2300062: dampenerx 1
+    2300064: dampenerx1
+    2300066: dampenerx2
+    2300068: doordetails
+    2300070: doordetails 1
+    2300072: doordetails1
+    2300074: doordetails1 1
+    2300076: doordetails2
+    2300078: doordetails2 1
+    2300080: doorhinge2
+    2300082: doorhinge2 1
+    2300084: doorhinge3
+    2300086: doorhinge3 1
+    2300088: doorhinge4
+    2300090: doorhinge5
+    2300092: doormotorcovers
+    2300094: doormotorcovers 1
+    2300096: emergencyintercom
+    2300098: emergencyintercom 1
+    2300100: ends
+    2300102: ends 1
+    2300104: ends1
+    2300106: ends1 1
+    2300108: ends1 2
+    2300110: ends2
+    2300112: ends2 1
+    2300114: ends2 2
+    2300116: footwellboxes
+    2300118: footwellcovers
+    2300120: footwellcovers 1
+    2300122: interiordetails1
+    2300124: interiordetails1 1
+    2300126: Mesh104
+    2300128: Mesh104 1
+    2300130: Mesh209
+    2300132: Mesh209 1
+    2300134: Mesh249
+    2300136: Mesh249 1
+    2300138: Mesh355
+    2300140: Mesh355 1
+    2300142: Mesh366
+    2300144: Mesh366 1
+    2300146: Mesh94
+    2300148: Mesh94 1
+    2300150: Mesh97
+    2300152: Mesh97 1
+    2300154: Mesh99
+    2300156: Mesh99 1
+    2300158: midpole1
+    2300160: midpole2
+    2300162: mirror1
+    2300164: mirror1 1
+    2300166: module24shell
+    2300168: module3shell
+    2300170: pantographcontact
+    2300172: pantographframe
+    2300174: pantographlowerarm
+    2300176: pantographupperarm
+    2300178: pantosupport
+    2300180: pCube1
+    2300182: pCube10
+    2300184: pCube11
+    2300186: pCube12
+    2300188: pCube2
+    2300190: pCube3
+    2300192: pCube4
+    2300194: pCube5
+    2300196: pCube6
+    2300198: pCube7
+    2300200: pCube8
+    2300202: pCube9
+    2300204: poles15
+    2300206: poles15 1
+    2300208: polesceiling
+    2300210: polesceiling 1
+    2300212: polesdoor
+    2300214: polesdoor 1
+    2300216: polesdoordivider
+    2300218: polesdoordivider 1
+    2300220: polesdoors1
+    2300222: polesdoors1 1
+    2300224: polesdoorwholder
+    2300226: polesdoorwholder 1
+    2300228: polesdoorwholder1
+    2300230: polesdoorwholder1 1
+    2300232: polesend1
+    2300234: polesend1 1
+    2300236: polesends2
+    2300238: polesends2 1
+    2300240: polySurface1
+    2300242: polySurface2
+    2300244: polySurface3
+    2300246: polySurface4
+    2300248: polySurface5
+    2300250: polySurface6
+    2300252: polySurface7
+    2300254: seatpair
+    2300256: seatpair 1
+    2300258: seatpair1
+    2300260: seatpair1 1
+    2300262: seatpair2
+    2300264: seatpair2 1
+    2300266: seatpair3
+    2300268: seatpair3 1
+    2300270: seatpair4
+    2300272: seatpair4 1
+    2300274: seatpair5
+    2300276: seatpair5 1
+    2300278: seatsfolable3
+    2300280: seatsfolable3 1
+    2300282: seatwheelboxpair
+    2300284: seatwheelboxpair 1
+    2300286: shell1
+    2300288: shell1 1
+    2300290: transformer
+    2300292: wheelbox
+    2300294: wheelbox 1
+    2300296: wheelbox 2
+    2300298: wheelbox1
+    2300300: wheelbox2
+    2300302: wheelbox3
+    2300304: wheelbox5
+    2300306: wheelbox5 1
+    2300308: wheelbox6
+    2300310: wheelbox6 1
+    2300312: wiperbladelarge
+    2300314: wiperbladelarge 1
+    2300316: wiperlargearm1
+    2300318: wiperlargearm1 1
+    2300320: wiperlargearm2
+    2300322: wiperlargearm2 1
+    2300324: wipersmall
+    2300326: wipersmall 1
+    2300328: yawdampener1
+    2300330: yawdampener1 1
+    2300332: yawdampener2
+    2300334: yawdampener2 1
+    2300336: yawdampeners
+    2300338: yawdampeners 1
+    2300340: yawdampeners 2
+    2300342: yawdampeners1
+    2300344: yawdampeners1 1
+    3300000: airconandcables
+    3300002: airconandcables 1
+    3300004: auxconverter
+    3300006: axle1
+    3300008: axle1 1
+    3300010: axle1 2
+    3300012: axle2
+    3300014: axle2 1
+    3300016: axle2 2
+    3300018: bellows
+    3300020: bellows 1
+    3300022: bellows1
+    3300024: bellows1 1
+    3300026: bellows1 2
+    3300028: bellows2
+    3300030: bellows2 1
+    3300032: bellows2 2
+    3300034: bogies
+    3300036: cab1
+    3300038: cab1 1
+    3300040: cables1
+    3300042: cables2
+    3300044: cables4
+    3300046: cables4 1
+    3300048: cablesmodule15
+    3300050: cablesmodule15 1
+    3300052: ceiling15andmotor
+    3300054: ceiling15andmotor1
+    3300056: curtain
+    3300058: curtain 1
+    3300060: dampenerx
+    3300062: dampenerx 1
+    3300064: dampenerx1
+    3300066: dampenerx2
+    3300068: doordetails
+    3300070: doordetails 1
+    3300072: doordetails1
+    3300074: doordetails1 1
+    3300076: doordetails2
+    3300078: doordetails2 1
+    3300080: doorhinge2
+    3300082: doorhinge2 1
+    3300084: doorhinge3
+    3300086: doorhinge3 1
+    3300088: doorhinge4
+    3300090: doorhinge5
+    3300092: doormotorcovers
+    3300094: doormotorcovers 1
+    3300096: emergencyintercom
+    3300098: emergencyintercom 1
+    3300100: ends
+    3300102: ends 1
+    3300104: ends1
+    3300106: ends1 1
+    3300108: ends1 2
+    3300110: ends2
+    3300112: ends2 1
+    3300114: ends2 2
+    3300116: footwellboxes
+    3300118: footwellcovers
+    3300120: footwellcovers 1
+    3300122: interiordetails1
+    3300124: interiordetails1 1
+    3300126: Mesh104
+    3300128: Mesh104 1
+    3300130: Mesh209
+    3300132: Mesh209 1
+    3300134: Mesh249
+    3300136: Mesh249 1
+    3300138: Mesh355
+    3300140: Mesh355 1
+    3300142: Mesh366
+    3300144: Mesh366 1
+    3300146: Mesh94
+    3300148: Mesh94 1
+    3300150: Mesh97
+    3300152: Mesh97 1
+    3300154: Mesh99
+    3300156: Mesh99 1
+    3300158: midpole1
+    3300160: midpole2
+    3300162: mirror1
+    3300164: mirror1 1
+    3300166: module24shell
+    3300168: module3shell
+    3300170: pantographcontact
+    3300172: pantographframe
+    3300174: pantographlowerarm
+    3300176: pantographupperarm
+    3300178: pantosupport
+    3300180: pCube1
+    3300182: pCube10
+    3300184: pCube11
+    3300186: pCube12
+    3300188: pCube2
+    3300190: pCube3
+    3300192: pCube4
+    3300194: pCube5
+    3300196: pCube6
+    3300198: pCube7
+    3300200: pCube8
+    3300202: pCube9
+    3300204: poles15
+    3300206: poles15 1
+    3300208: polesceiling
+    3300210: polesceiling 1
+    3300212: polesdoor
+    3300214: polesdoor 1
+    3300216: polesdoordivider
+    3300218: polesdoordivider 1
+    3300220: polesdoors1
+    3300222: polesdoors1 1
+    3300224: polesdoorwholder
+    3300226: polesdoorwholder 1
+    3300228: polesdoorwholder1
+    3300230: polesdoorwholder1 1
+    3300232: polesend1
+    3300234: polesend1 1
+    3300236: polesends2
+    3300238: polesends2 1
+    3300240: polySurface1
+    3300242: polySurface2
+    3300244: polySurface3
+    3300246: polySurface4
+    3300248: polySurface5
+    3300250: polySurface6
+    3300252: polySurface7
+    3300254: seatpair
+    3300256: seatpair 1
+    3300258: seatpair1
+    3300260: seatpair1 1
+    3300262: seatpair2
+    3300264: seatpair2 1
+    3300266: seatpair3
+    3300268: seatpair3 1
+    3300270: seatpair4
+    3300272: seatpair4 1
+    3300274: seatpair5
+    3300276: seatpair5 1
+    3300278: seatsfolable3
+    3300280: seatsfolable3 1
+    3300282: seatwheelboxpair
+    3300284: seatwheelboxpair 1
+    3300286: shell1
+    3300288: shell1 1
+    3300290: transformer
+    3300292: wheelbox
+    3300294: wheelbox 1
+    3300296: wheelbox 2
+    3300298: wheelbox1
+    3300300: wheelbox2
+    3300302: wheelbox3
+    3300304: wheelbox5
+    3300306: wheelbox5 1
+    3300308: wheelbox6
+    3300310: wheelbox6 1
+    3300312: wiperbladelarge
+    3300314: wiperbladelarge 1
+    3300316: wiperlargearm1
+    3300318: wiperlargearm1 1
+    3300320: wiperlargearm2
+    3300322: wiperlargearm2 1
+    3300324: wipersmall
+    3300326: wipersmall 1
+    3300328: yawdampener1
+    3300330: yawdampener1 1
+    3300332: yawdampener2
+    3300334: yawdampener2 1
+    3300336: yawdampeners
+    3300338: yawdampeners 1
+    3300340: yawdampeners 2
+    3300342: yawdampeners1
+    3300344: yawdampeners1 1
+    4300000: cab1
+    4300002: yawdampener1
+    4300004: curtain
+    4300006: doordetails
+    4300008: seatwheelboxpair
+    4300010: wheelbox
+    4300012: wheelbox5
+    4300014: axle2
+    4300016: mirror1
+    4300018: axle1
+    4300020: footwellcovers
+    4300022: yawdampener2
+    4300024: cablesmodule15
+    4300026: wheelbox6
+    4300028: interiordetails1
+    4300030: polesdoors1
+    4300032: bellows
+    4300034: poles15
+    4300036: ends
+    4300038: Mesh249
+    4300040: Mesh355
+    4300042: Mesh366
+    4300044: Mesh209
+    4300046: wipersmall
+    4300048: wiperlargearm1
+    4300050: wiperlargearm2
+    4300052: wiperbladelarge
+    4300054: shell1
+    4300056: ceiling15andmotor1
+    4300058: pCube3
+    4300060: pCube12
+    4300062: pCube11
+    4300064: pCube10
+    4300066: seatpair
+    4300068: seatpair1
+    4300070: seatpair2
+    4300072: seatpair3
+    4300074: seatsfolable3
+    4300076: polesdoor
+    4300078: polesdoorwholder1
+    4300080: polesdoordivider
+    4300082: polesdoorwholder
+    4300084: polesceiling
+    4300086: ends1
+    4300088: seatpair5
+    4300090: seatpair4
+    4300092: module24shell
+    4300094: polesends2
+    4300096: ends2
+    4300098: polesend1
+    4300100: yawdampeners
+    4300102: doordetails1
+    4300104: bellows1
+    4300106: doormotorcovers
+    4300108: bellows2
+    4300110: doordetails2
+    4300112: cables4
+    4300114: dampenerx
+    4300116: emergencyintercom
+    4300118: airconandcables
+    4300120: yawdampeners1
+    4300122: doorhinge3
+    4300124: doorhinge2
+    4300126: Mesh97
+    4300128: Mesh99
+    4300130: doorhinge5
+    4300132: Mesh104
+    4300134: Mesh94
+    4300136: doorhinge4
+    4300138: polySurface3
+    4300140: module3shell
+    4300142: ends1
+    4300144: ends2
+    4300146: wheelbox
+    4300148: wheelbox3
+    4300150: wheelbox2
+    4300152: wheelbox1
+    4300154: midpole2
+    4300156: polySurface5
+    4300158: polySurface6
+    4300160: midpole1
+    4300162: bellows2
+    4300164: cables2
+    4300166: dampenerx1
+    4300168: transformer
+    4300170: pantosupport
+    4300172: auxconverter
+    4300174: cables1
+    4300176: yawdampeners
+    4300178: dampenerx2
+    4300180: footwellboxes
+    4300182: axle1
+    4300184: axle2
+    4300186: bogies
+    4300188: pantographframe
+    4300190: bellows1
+    4300192: pantographlowerarm
+    4300194: pantographupperarm
+    4300196: pantographcontact
+    4300198: pCube9
+    4300200: pCube8
+    4300202: pCube4
+    4300204: pCube5
+    4300206: seatpair
+    4300208: seatpair1
+    4300210: seatpair2
+    4300212: seatpair3
+    4300214: seatsfolable3
+    4300216: polesdoor
+    4300218: polesdoorwholder1
+    4300220: polesdoordivider
+    4300222: polesdoorwholder
+    4300224: polesceiling
+    4300226: ends1
+    4300228: seatpair5
+    4300230: seatpair4
+    4300232: polySurface4
+    4300234: polySurface7
+    4300236: polesends2
+    4300238: ends2
+    4300240: polesend1
+    4300242: yawdampeners
+    4300244: doordetails1
+    4300246: bellows1
+    4300248: doormotorcovers
+    4300250: bellows2
+    4300252: doordetails2
+    4300254: cables4
+    4300256: dampenerx
+    4300258: emergencyintercom
+    4300260: airconandcables
+    4300262: yawdampeners1
+    4300264: doorhinge3
+    4300266: doorhinge2
+    4300268: Mesh97
+    4300270: Mesh99
+    4300272: Mesh104
+    4300274: polySurface1
+    4300276: Mesh94
+    4300278: polySurface2
+    4300280: cab1
+    4300282: yawdampener1
+    4300284: curtain
+    4300286: doordetails
+    4300288: seatwheelboxpair
+    4300290: wheelbox
+    4300292: wheelbox5
+    4300294: axle2
+    4300296: mirror1
+    4300298: axle1
+    4300300: footwellcovers
+    4300302: yawdampener2
+    4300304: cablesmodule15
+    4300306: wheelbox6
+    4300308: interiordetails1
+    4300310: polesdoors1
+    4300312: ceiling15andmotor
+    4300314: bellows
+    4300316: poles15
+    4300318: ends
+    4300320: Mesh249
+    4300322: Mesh355
+    4300324: Mesh366
+    4300326: Mesh209
+    4300328: wipersmall
+    4300330: wiperlargearm1
+    4300332: wiperlargearm2
+    4300334: wiperbladelarge
+    4300336: shell1
+    4300338: pCube1
+    4300340: pCube2
+    4300342: pCube6
+    4300344: pCube7
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrontColor
+    second: {fileID: 2100000, guid: 09b02086c21dd45499db7f5767d41f16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAIN
+    second: {fileID: 2100000, guid: 7132e8644b1d9ce43b17cfe4d9007326, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 62311218c9b127e4a92841b84e8a8262, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blackop
+    second: {fileID: 2100000, guid: 94d1ffe787bef7b4aba258b93b927223, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cab
+    second: {fileID: 2100000, guid: 732f109f6b43ffa4eb20b06ffcae7842, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cabendposter
+    second: {fileID: 2100000, guid: c776f1b4a8cb47044be28831a4e7837f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dest_sign
+    second: {fileID: 2100000, guid: da8e76e5dac06b249b8f0f7b8be42f1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: excess
+    second: {fileID: 2100000, guid: bc2682c900f729c408d4c2d91c9d7c12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2100000, guid: ef7c7e15a1315604e99e6cbaed1b8add, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: front3
+    second: {fileID: 2100000, guid: 46be329484379e641b56ad8d04edcc11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 05a1c1a426ea8844aa70041eacd84c33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lightsinterioremissive
+    second: {fileID: 2100000, guid: 83c81638df5fcc541adcd48ac10b12fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: module15
+    second: {fileID: 2100000, guid: 05705ade6012542499803a1d4d566f0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: module15windows
+    second: {fileID: 2100000, guid: b70d271135d3f074e96cef8e2e7f32e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: module24
+    second: {fileID: 2100000, guid: df58be0629b9e3640bbc94ce2f0f15f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: module24windows
+    second: {fileID: 2100000, guid: 2f5e4805b81af274faaa515633ed4105, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: module3tex
+    second: {fileID: 2100000, guid: 4bd5da7fb362b6b48854c11777240518, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: module3windows
+    second: {fileID: 2100000, guid: 6b854be446169f24ebb4b6ab6fc3920a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pantograph
+    second: {fileID: 2100000, guid: 82ae5a0d6548f1e48a973b0797dd4d8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof24
+    second: {fileID: 2100000, guid: 5f1491eaac8c71d459fd11a6088f4106, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof3
+    second: {fileID: 2100000, guid: 7af5f25ed4a5c3947a59db754c701872, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roofandcab15
+    second: {fileID: 2100000, guid: 8135f6fdabd70194e932433d597e6f1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roofends
+    second: {fileID: 2100000, guid: fc4e67a3ec021fd49862010cfd053b46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rooft1_5
+    second: {fileID: 2100000, guid: 8b7beb344f0d8c04fb196e13229602d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rooftthree
+    second: {fileID: 2100000, guid: 9e67b2704d741b34a89c7107bcd1b7e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sidemarkers
+    second: {fileID: 2100000, guid: dd780f4ccfa39a9439d3dffefaedf384, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: taillight
+    second: {fileID: 2100000, guid: 082f6b0548f9ad24dad4f2ca4eab26d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_24
+    second: {fileID: 2100000, guid: b5e296f4d608edd4d8168ac7b62175fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: walls3
+    second: {fileID: 2100000, guid: 6ebee22e66e91d04286af672f6f50481, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: walls_1
+    second: {fileID: 2100000, guid: ab2f5edc30b5d3b4287cfdeb4f45fea3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheelz
+    second: {fileID: 2100000, guid: b3e0ef50aa3efd84d9a517e8acfd9cd3, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1
+    second: {fileID: 2800000, guid: e106366a0465f2748b2051607252be9c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2
+    second: {fileID: 2800000, guid: 8daee5a5e5d82ff46877e7952911f3c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3
+    second: {fileID: 2800000, guid: 0f97f245e5669924aa63c4cf27148fb9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2800000, guid: ec6cd04f0616b6d42afaab336b2d3998, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cab
+    second: {fileID: 2800000, guid: f06a5da2b7d379e4ea64124ae8ce9d18, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dest_sign
+    second: {fileID: 2800000, guid: 794e7db9c6b490447be860f8e382e2d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: excess
+    second: {fileID: 2800000, guid: 7d8112d0536566f4fa1361e8eb4b55ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2800000, guid: 63ac69b0bc5d6564fb0fd052e1529e95, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: front
+    second: {fileID: 2800000, guid: b31b25102b031434eab525c3e6006262, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: intlights
+    second: {fileID: 2800000, guid: a6c2b5aaaad97144780febb3143066e3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: main
+    second: {fileID: 2800000, guid: c4bb787e8ab025e46bb4fedd53c17b98, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pantograph
+    second: {fileID: 2800000, guid: 2167d269893b3e841a2336bf8d74bb5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roof24
+    second: {fileID: 2800000, guid: 719f38db24b7a2b47a016b79dc8118d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roof3
+    second: {fileID: 2800000, guid: a3030ee935ab8fe4189d2157cc96f67c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roofandcab15
+    second: {fileID: 2800000, guid: 0c8b770eedc605649a1646ad5d6fc0b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roofends
+    second: {fileID: 2800000, guid: 248cf98d5cf26ff45a0f931fcd863337, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rooft1-5
+    second: {fileID: 2800000, guid: 21ff74c5337e02c4aad8cc4a286fcd94, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rooftthree
+    second: {fileID: 2800000, guid: e56c245b7bc40614191298202e4cdf5e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: sidemarker
+    second: {fileID: 2800000, guid: 785454661ed4fe14188f6a161806a6f0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: taillight
+    second: {fileID: 2800000, guid: d8376dc65dc274945b3f78185f3313d4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: u-g-F59B250
+    second: {fileID: 2800000, guid: 0665644458ab14144b9ed09a111c6cfa, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall 24
+    second: {fileID: 2800000, guid: 362eafa0b20a4a1469a2a0f67c6f8a9d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: walls1
+    second: {fileID: 2800000, guid: bb04784fe864c0148879302a69b53a13, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: walls3
+    second: {fileID: 2800000, guid: 51521006d13b0ab459766c4378a71880, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wheelz
+    second: {fileID: 2800000, guid: a82f0c9fda9b84c43beb28997911f978, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

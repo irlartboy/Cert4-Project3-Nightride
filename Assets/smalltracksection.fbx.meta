@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 1f261ab7757d3e343aedc1906522eacb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Mesh10
+    100002: Mesh21
+    100004: Mesh22
+    100006: Mesh26
+    100008: Mesh28
+    100010: polySurface1
+    100012: polySurface3
+    100014: polySurface4
+    100016: polySurface5
+    100018: polySurface6
+    100020: rail1
+    100022: rail2
+    100024: //RootNode
+    100026: transform1
+    400000: Mesh10
+    400002: Mesh21
+    400004: Mesh22
+    400006: Mesh26
+    400008: Mesh28
+    400010: polySurface1
+    400012: polySurface3
+    400014: polySurface4
+    400016: polySurface5
+    400018: polySurface6
+    400020: rail1
+    400022: rail2
+    400024: //RootNode
+    400026: transform1
+    2100000: StingrayPBS1
+    2300000: Mesh10
+    2300002: Mesh21
+    2300004: Mesh22
+    2300006: Mesh28
+    2300008: polySurface1
+    2300010: polySurface3
+    2300012: polySurface4
+    2300014: polySurface5
+    2300016: polySurface6
+    3300000: Mesh10
+    3300002: Mesh21
+    3300004: Mesh22
+    3300006: Mesh28
+    3300008: polySurface1
+    3300010: polySurface3
+    3300012: polySurface4
+    3300014: polySurface5
+    3300016: polySurface6
+    4300000: Mesh21
+    4300002: Mesh22
+    4300004: Mesh28
+    4300006: polySurface1
+    4300008: polySurface3
+    4300010: polySurface4
+    4300012: polySurface5
+    4300014: polySurface6
+    4300016: Mesh10
+  externalObjects:
+  - first:
+      type: UnityEngine:Cubemap
+      assembly: UnityEngine.CoreModule
+      name: diffuse_cube
+    second: {fileID: 8900000, guid: f95b499e7521eb34c9578cf1e081b1da, type: 3}
+  - first:
+      type: UnityEngine:Cubemap
+      assembly: UnityEngine.CoreModule
+      name: specular_cube
+    second: {fileID: 8900000, guid: 47826e6148aa1bd41a671eea95c7df86, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StingrayPBS1
+    second: {fileID: 2100000, guid: fce7e1cb46f93dd4e8b6e52cdefc8576, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NormalMap
+    second: {fileID: 2800000, guid: 90bbc5fa9bc80de4b981d86428ac67fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: diff
+    second: {fileID: 2800000, guid: b60db5f991701cc4e819b46598e59dc0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: metalness
+    second: {fileID: 2800000, guid: 7fc7286f8a3f2674183d4df353754b05, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roughness
+    second: {fileID: 2800000, guid: 8b41a0e72f5e26e4c812cc99fdff2199, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

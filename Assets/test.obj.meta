@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 56724ebd2396c9f49ab09d89a5b61b2b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Mesh28_tracksection
+    100002: //RootNode
+    100004: tracksection_Mesh10
+    100006: tracksection_Mesh21_rail1
+    100008: tracksection_Mesh22_rail2
+    100010: tracksection_Mesh26_polySurface3
+    100012: tracksection_Mesh26_polySurface4
+    100014: tracksection_Mesh26_polySurface5
+    100016: tracksection_Mesh26_polySurface6
+    100018: tracksection_polySurface1_Mesh26
+    400000: Mesh28_tracksection
+    400002: //RootNode
+    400004: tracksection_Mesh10
+    400006: tracksection_Mesh21_rail1
+    400008: tracksection_Mesh22_rail2
+    400010: tracksection_Mesh26_polySurface3
+    400012: tracksection_Mesh26_polySurface4
+    400014: tracksection_Mesh26_polySurface5
+    400016: tracksection_Mesh26_polySurface6
+    400018: tracksection_polySurface1_Mesh26
+    2100000: Mesh28_tracksectionMat
+    2100002: tracksection_Mesh10Mat
+    2100004: tracksection_Mesh21_rail1Mat
+    2100006: tracksection_Mesh22_rail2Mat
+    2100008: tracksection_Mesh26_polySurface3Mat
+    2100010: tracksection_Mesh26_polySurface4Mat
+    2100012: tracksection_Mesh26_polySurface5Mat
+    2100014: tracksection_Mesh26_polySurface6Mat
+    2100016: tracksection_polySurface1_Mesh26Mat
+    2300000: Mesh28_tracksection
+    2300002: tracksection_Mesh10
+    2300004: tracksection_Mesh21_rail1
+    2300006: tracksection_Mesh22_rail2
+    2300008: tracksection_Mesh26_polySurface3
+    2300010: tracksection_Mesh26_polySurface4
+    2300012: tracksection_Mesh26_polySurface5
+    2300014: tracksection_Mesh26_polySurface6
+    2300016: tracksection_polySurface1_Mesh26
+    3300000: Mesh28_tracksection
+    3300002: tracksection_Mesh10
+    3300004: tracksection_Mesh21_rail1
+    3300006: tracksection_Mesh22_rail2
+    3300008: tracksection_Mesh26_polySurface3
+    3300010: tracksection_Mesh26_polySurface4
+    3300012: tracksection_Mesh26_polySurface5
+    3300014: tracksection_Mesh26_polySurface6
+    3300016: tracksection_polySurface1_Mesh26
+    4300000: Mesh28_tracksection
+    4300002: tracksection_Mesh10
+    4300004: tracksection_Mesh21_rail1
+    4300006: tracksection_Mesh22_rail2
+    4300008: tracksection_Mesh26_polySurface3
+    4300010: tracksection_Mesh26_polySurface4
+    4300012: tracksection_Mesh26_polySurface5
+    4300014: tracksection_Mesh26_polySurface6
+    4300016: tracksection_polySurface1_Mesh26
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
